@@ -8,7 +8,7 @@
 void main(int argc, char* argv[])
 {
 
-	int *a, *b, *c, *d;
+	int *a, *c;
 	a = malloc(sizeof(int));
 	*a = 1;
 	c = malloc(sizeof(int));
